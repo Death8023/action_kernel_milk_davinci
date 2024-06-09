@@ -5,7 +5,7 @@
 
 # Kernel
 KERNEL_NAME="MilkKernel"
-KERNEL_GIT="https://github.com/SchweGELBin/kernel_milk_davinci.git"
+KERNEL_GIT="https://github.com/Death8023/kernel_milk_davinci.git"
 KERNEL_BRANCH="vantom-14"
 KERNEL_TYPE="vantom"
 
