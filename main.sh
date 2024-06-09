@@ -5,8 +5,8 @@
 
 # Kernel
 KERNEL_NAME="MilkKernel"
-KERNEL_GIT="https://github.com/Death8023/kernel_milk_davinci.git"
-KERNEL_BRANCH="vantom-14"
+KERNEL_GIT="https://github.com/Death8023/kernel_xiaomi_sm6150.git"
+KERNEL_BRANCH="14"
 KERNEL_TYPE="vantom"
 
 # KernelSU
